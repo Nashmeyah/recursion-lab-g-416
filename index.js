@@ -25,13 +25,13 @@ function isPalindrome(string){
 }
 
 function includesNumber(array){
-  
+
 }
 
 function addUpTo(num){
-  
+
 }
 
 function maxOf(nums){
-  
+
 }
